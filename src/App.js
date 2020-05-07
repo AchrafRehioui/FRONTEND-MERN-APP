@@ -10,7 +10,6 @@ import {
 import Users from './user/pages/Users';
 import NewPlace from './places/pages/NewPlace';
 import MainNavigation from './shared/components/Navigation/MainNavigation';
-import MainHeader from './shared/components/Navigation/MainHeader';
 
 
 const App = () => {
@@ -30,6 +29,6 @@ const App = () => {
         </main>
     </Router>
   );
-}
+};
 
 export default App;
