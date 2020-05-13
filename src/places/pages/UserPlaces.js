@@ -27,7 +27,7 @@ const DUMMY_PLACES = [
             lng: -73.9812714
         },
         creator: 'u2'
-
+ 
     }
 ];
 
